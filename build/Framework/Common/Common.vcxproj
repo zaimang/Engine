@@ -262,7 +262,6 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClCompile Include="D:\Code\EngineOnline\Engine\Framework\Common\BaseApplication.cpp" />
     <ClCompile Include="D:\Code\EngineOnline\Engine\Framework\Common\main.cpp" />
-    <ClCompile Include="GraphicsManager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="D:\Code\EngineOnline\Engine\build\ZERO_CHECK.vcxproj">

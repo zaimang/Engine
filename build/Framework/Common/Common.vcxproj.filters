@@ -7,9 +7,6 @@
     <ClCompile Include="D:\Code\EngineOnline\Engine\Framework\Common\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GraphicsManager.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="D:\Code\EngineOnline\Engine\Framework\Common\CMakeLists.txt" />
