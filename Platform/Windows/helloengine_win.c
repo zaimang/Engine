@@ -1,5 +1,6 @@
 #include <windows.h>
 #include <windowsx.h>
+#include <tchar.h>
 
 LRESULT CALLBACK WindowProc(HWND hWnd,
 	UINT message,
